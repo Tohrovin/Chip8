@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Agata/Projekty/Detection/build",
+  "command": "C:\\Agata\\Executables\\Msys2\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\Chip8.dir\\src\\main.cpp.obj -c C:\\Agata\\Projekty\\Detection\\src\\main.cpp",
+  "file": "C:/Agata/Projekty/Detection/src/main.cpp",
+  "output": "CMakeFiles/Chip8.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Agata/Projekty/Detection/build",
+  "command": "C:\\Agata\\Executables\\Msys2\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\Chip8.dir\\src\\chip8.cpp.obj -c C:\\Agata\\Projekty\\Detection\\src\\chip8.cpp",
+  "file": "C:/Agata/Projekty/Detection/src/chip8.cpp",
+  "output": "CMakeFiles/Chip8.dir/src/chip8.cpp.obj"
+}
+]

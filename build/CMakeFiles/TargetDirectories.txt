@@ -1,0 +1,3 @@
+C:/Agata/Projekty/Detection/build/CMakeFiles/Chip8.dir
+C:/Agata/Projekty/Detection/build/CMakeFiles/edit_cache.dir
+C:/Agata/Projekty/Detection/build/CMakeFiles/rebuild_cache.dir
